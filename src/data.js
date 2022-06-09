@@ -20,12 +20,12 @@ import BehanceBrandIcon from './assets/img/brands/behance.png';
 import DribbbleBrandIcon from './assets/img/brands/dribbble.png';
 
 // projects images
-import Project1 from './assets/img/projects/p1.webp';
-import Project2 from './assets/img/projects/p2.webp';
-import Project3 from './assets/img/projects/p3.webp';
-import Project4 from './assets/img/projects/p4.webp';
-import Project5 from './assets/img/projects/p5.webp';
-import Project6 from './assets/img/projects/p6.webp';
+import Project1 from './assets/img/projects/S.A photography.png';
+import Project2 from './assets/img/projects/Cpu Tech.png';
+import Project3 from './assets/img/projects/Bike Stock.png';
+import Project4 from './assets/img/projects/Money Calculation.png';
+import Project5 from './assets/img/projects/Panda Mart.png';
+import Project6 from './assets/img/projects/Camera Review Page.png';
 
 // skills images
 import SkillImg1 from './assets/img/skills/html5.png';
@@ -152,6 +152,7 @@ export const projectsData = [
         name: 'project name 6',
         category: 'web development',
     },
+
 ];
 
 // projects
@@ -160,14 +161,12 @@ export const projectsNav = [
         name: 'all',
     },
     {
-        name: 'UI/UX Design',
+        name: 'javascript',
     },
     {
-        name: 'web development',
+        name: 'reactjs',
     },
-    {
-        name: 'branding',
-    },
+
 ];
 
 // skill

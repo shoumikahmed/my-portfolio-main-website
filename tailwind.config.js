@@ -26,11 +26,11 @@ module.exports = {
         contact: 'url("/src/assets/img/outline-text/contact.svg")',
       },
       colors: {
-        primary: '#050402',
+        primary: '#FFFFFF',
         secondary: '#1C1D24',
         tertiary: '#131419',
         accent: {
-          DEFAULT: '#FFA500',
+          DEFAULT: '#6a0dad',
           hover: '#925a2b',
         },
         paragraph: '#878e99',
