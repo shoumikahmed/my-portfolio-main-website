@@ -12,8 +12,7 @@ const Portfolio = () => {
                         My latest work
                     </h2>
                     <p className='subtitle p-8'>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga veniam
-                        labore nisium illum cupiditate reiciendis a numquam
+                        Recently I have worked on several projects like reactjs, tailwindcss, bootstrap, vanilla javascript etc.
                     </p>
                 </div>
                 <Projects />

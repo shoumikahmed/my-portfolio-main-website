@@ -23,7 +23,7 @@ const Footer = () => {
                     </div>
 
                     <p className='text-paragraph opacity-80 text-[15px]'>
-                        &copy; 2022 Cristian Mihai. All rights reserved.
+                        &copy; 2022 Shoumik Ahmed. All rights reserved.
                     </p>
                 </div>
             </div>

@@ -17,11 +17,10 @@ const Hero = () => {
                             I Build & Design <br /> Web Interfaces.
                         </h1>
                         <p className='pt-4 pb-8 md:pt-6 md:pb-12 max-w-[480px] text-lg text-center lg:text-left'>
-                            Lorem ipsum dolor sit amet consectetur adipisicing illo ad labore
-                            dolor elit.
+                            I have been enjoying web developing for a few years. My experience shows me the brightest path of my developing career.
                         </p>
                         <button className='btn btn-md bg-accent p-4 hover:bg-purple-600 md:btn-lg transition-all rounded-lg text-white'>
-                            Work with me
+                            <a href="https://drive.google.com/file/d/1c1okW3QC-3Tp3hKaKiXjqrx6lgIrrWv8/view">Download Resume</a>
                         </button>
                     </div>
                     <div className='hidden lg:flex flex-1 justify-end items-end h-full mb-96'>

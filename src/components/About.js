@@ -23,13 +23,9 @@ const About = () => {
                             </p>
                             <hr className='mb-8 opacity-100' />
                             <p className='mb-8'>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit tempore
-                                earum dolorum quo consequatur rem nihil hic ducimus rerum soluta
-                                neque harum velit molestiae dignissimos distinctio dolorum nisi
-                                labore culpa nihil. <br />
+                                As a front end web developer, I have built a lot of hands on projects which is attatched in the portfolio section. Programming is my passion, so I love to do code with enthusiastic team. <br />
                                 <br />
-                                Qui doloremque quod sit accusantium unde totam inventore
-                                cupiditate ratione esse maxime eum recusandae ducimus.
+                                Besides, I enjoy travelling in different places. I love to play cricket & football as outdoor game.
                             </p>
                         </div>
                         <button className='btn btn-md bg-accent p-4 hover:bg-purple-600 md:btn-lg transition-all rounded-lg text-white'>

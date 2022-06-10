@@ -119,38 +119,44 @@ export const projectsData = [
     {
         id: '1',
         image: Project1,
-        name: 'project name 1',
-        category: 'UI/UX design',
+        name: 'S.A Photography',
+        category: 'Reactjs',
+        livelink: 'https://sa-photography-assignment10.web.app/?fbclid=IwAR2E8BTBRjNsspAA93_fHaZc8j2qdEWMB12m7kAjwvj-HfpFpgja8hAoAGE'
     },
     {
         id: '2',
         image: Project2,
-        name: 'project name 2',
-        category: 'web development',
+        name: 'Cpu Tech',
+        category: 'Reactjs',
+        livelink: 'https://cpu-manufacturer-assignm-47d23.web.app/'
     },
     {
         id: '3',
         image: Project3,
-        name: 'project name 3',
-        category: 'UI/UX design',
+        name: 'Bike Stock',
+        category: 'Reactjs',
+        livelink: 'https://bike-stock-assignment11.web.app/?fbclid=IwAR2E8BTBRjNsspAA93_fHaZc8j2qdEWMB12m7kAjwvj-HfpFpgja8hAoAGE'
     },
     {
         id: '4',
         image: Project4,
-        name: 'project name 4',
-        category: 'branding',
+        name: 'Money Calculation',
+        category: 'Javascript',
+        livelink: 'https://nervous-albattani-d7b2c3.netlify.app/'
     },
     {
         id: '5',
         image: Project5,
-        name: 'project name 5',
+        name: 'Panda Mart',
         category: 'web development',
+        livelink: 'https://distracted-bose-d70032.netlify.app/'
     },
     {
         id: '6',
         image: Project6,
-        name: 'project name 6',
+        name: 'Camera review page',
         category: 'web development',
+        livelink: 'https://sparkly-mermaid-89563e.netlify.app/'
     },
 
 ];
