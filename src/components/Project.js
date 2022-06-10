@@ -8,7 +8,7 @@ const Project = ({ item }) => {
             </div>
             <p className='capitalize text-accent text-sm mb-3'>{item.category}</p>
             <h3 className='text-2xl font-semibold capitalize mb-3'>{item.name}</h3>
-            <button className='btn btn-md bg-accent p-2 hover:bg-purple-600 md:btn-lg transition-all rounded-lg text-white'>
+            <button className='btn btn-md sm:mb-10 bg-accent p-2 px-5 hover:bg-purple-600 md:btn-lg transition-all rounded-lg text-white'>
                 <a href={item.livelink}>Live site</a>
             </button>
         </div>

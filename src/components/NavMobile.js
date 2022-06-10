@@ -47,7 +47,7 @@ const NavMobile = () => {
         <nav className='relative'>
             <div
                 onClick={() => setIsOpen(true)}
-                className='cursor-pointer text-white'
+                className='cursor-pointer text-accent'
             >
                 <MenuAlt3Icon className='w-8 h-8' />
             </div>
@@ -57,7 +57,7 @@ const NavMobile = () => {
                 variants={circleVariants}
                 initial='hidden'
                 animate={isOpen ? 'visible' : 'hidden'}
-                className='w-4 h-4 rounded-full bg-accent fixed top-0 right-0'
+                className='w-4 h-4 rounded-full bg-slate-400 fixed top-0 right-0'
             ></motion.div>
 
             <motion.ul

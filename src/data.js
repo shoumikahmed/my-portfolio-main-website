@@ -10,7 +10,10 @@ import {
     FiTag,
     FiMail,
     FiMapPin,
+
 } from 'react-icons/fi';
+import { FaGoogle, FaLinkedin } from "react-icons/fa";
+
 
 // companies icons
 import FreelancerBrandIcon from './assets/img/brands/freelancer.png';
@@ -57,14 +60,6 @@ export const navigation = [
         href: 'portfolio',
     },
     {
-        name: 'services',
-        href: 'services',
-    },
-    {
-        name: 'testimonials',
-        href: 'testimonials',
-    },
-    {
         name: 'contact',
         href: 'contact',
     },
@@ -72,22 +67,20 @@ export const navigation = [
 
 // social
 export const social = [
-    {
-        icon: <FiYoutube />,
-        href: '',
-    },
-    {
-        icon: <FiInstagram />,
-        href: '',
-    },
+
     {
         icon: <FiGithub />,
-        href: '',
+        href: 'https://github.com/shoumikahmed',
     },
     {
-        icon: <FiDribbble />,
-        href: '',
+        icon: <FaLinkedin />,
+        href: 'https://www.linkedin.com/in/shoumikahmed/',
     },
+    {
+        icon: <FaGoogle />,
+        href: 'https://mail.google.com/mail/u/0/#inbox',
+    },
+
 ];
 
 // companies
