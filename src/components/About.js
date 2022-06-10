@@ -5,7 +5,7 @@ import Image from '../assets/img/bandorban.jpg';
 
 const About = () => {
     return (
-        <section className='section bg-slate-200 p-12' id='about'>
+        <section className='section bg-slate-200 p-16' id='about'>
             <div className='container mx-auto'>
                 <div className='flex flex-col xl:flex-row gap-24'>
                     <img
@@ -29,7 +29,7 @@ const About = () => {
                             </p>
                         </div>
                         <button className='btn btn-md bg-accent p-4 hover:bg-purple-600 md:btn-lg transition-all rounded-lg text-white'>
-                            Contact Me
+                            <a href="https://www.linkedin.com/in/shoumikahmed/">Contact Me</a>
                         </button>
                     </div>
                 </div>
